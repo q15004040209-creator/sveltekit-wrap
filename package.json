@@ -1,0 +1,12 @@
+{
+  "name": "sveltekit-wrap",
+  "version": "1.0.0",
+  "description": "SvelteKit框架封装 - JavaScript全栈框架快速构建工具",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "keywords": ["svelte", "sveltekit", "framework", "fullstack", "wrapper"],
+  "author": "q15004040209-creator",
+  "license": "MIT"
+}
